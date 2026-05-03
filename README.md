@@ -7,4 +7,4 @@
   - Jupyter Notebook is used to display trends and insights after the data is broken down.
 - Natural language processing
   - Steam review data is fed to a learning algorithm to generate summarised texts.
-  - Aggregated summaries are used for Tableau storyboarding.
+  - Aggregated summaries are used for [Tableau storyboarding](https://public.tableau.com/app/profile/kaesespaetzle/viz/NoMansSky/NoMansSky).
