@@ -6,5 +6,5 @@
   - Pandas is used to parse Steam review data into a usable data frame.
   - Jupyter Notebook is used to display trends and insights after the data is broken down.
 - Natural language processing
-  - Steam review data is fed to a learning algorithm to generate summarised texts.
+  - Steam review data is fed into a natural language learning algorithm to stack rank which reviews best represent the general consensus.
   - Aggregated summaries are used for [Tableau storyboarding](https://public.tableau.com/app/profile/kaesespaetzle/viz/NoMansSky/NoMansSky).
